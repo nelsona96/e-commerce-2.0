@@ -472,7 +472,7 @@ select {
 
 .fa-spinner {
   display: none !important;
-  animation: rotate 400ms infinite linear;
+  animation: rotate 60ms infinite linear;
 }
 
 .books__loading .fa-spinner {
